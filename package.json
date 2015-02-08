@@ -1,0 +1,19 @@
+{
+  "name": "hoodie-plugin-post",
+  "version": "0.0.1",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinmerckx/hoodie-plugin-post.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinmerckx/hoodie-plugin-post/issues"
+  },
+  "homepage": "https://github.com/kevinmerckx/hoodie-plugin-post"
+}
